@@ -7,6 +7,11 @@ import java.io.PrintStream;
 
 import org.junit.jupiter.api.Test;
 
+import actividadgrupal.App.GestionHabitaciones;
+import actividadgrupal.App.GestionReservas;
+import actividadgrupal.App.GestionUsuarios;
+import actividadgrupal.App.TipoHabitacion;
+
 public class AppTest {
     @Test
     public void testRegistrarUsuario() {
